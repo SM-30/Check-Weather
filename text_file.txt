@@ -1,0 +1,10 @@
+-------------------------------------------------------------
+Weather Stats for - KOLKATA  || 22 Jun 2021 | 02:36:08 PM
+-------------------------------------------------------------
+Current temperature is: 29.97 deg C
+Current temperature is: 29.97 deg C
+Current weather desc  :haze
+Current temperature is: 29.97 deg C
+Current weather desc  :haze
+Current Humidity      :94%
+Current wind speed    :2.57kmph
